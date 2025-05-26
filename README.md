@@ -8,3 +8,8 @@ The datasets are quite big. For this reason we could not directly push them to t
 Vehicle Detection dataset -> https://www.kaggle.com/datasets/ssalijoshua/ssalis-traffic-density
 
 Traffic Density dataset -> https://www.kaggle.com/datasets/ssalijoshua/ssalis-traffic-density
+
+### Running the Simulation
+- Follow the directions to install SUMO basing on the operating system you are using at https://sumo.dlr.de/docs/Installing/index.html
+
+- Run the script Simulations/06_traci/simulation.py, this opens a map of a city which shows how our algorithms will manage the traffic in the city. You should also be able to scale the traffic to see how dense traffic is handled.  
