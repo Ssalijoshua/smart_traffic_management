@@ -1,0 +1,3 @@
+<add>
+    <edgeData id="10min_agg" freq="600" file="edgedata.xml"/>
+</add>

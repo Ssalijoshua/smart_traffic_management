@@ -1,0 +1,3 @@
+python %SUMO_HOME%\tools\randomTrips.py -n osm.net.xml --seed 42 --fringe-factor 5 -p 0.659184787492 -r osm.passenger.rou.xml -o osm.passenger.trips.xml -e 3600 --vehicle-class passenger --vclass passenger --prefix veh --min-distance 300 --trip-attributes departLane=\"best\" --validate
+python %SUMO_HOME%\tools\randomTrips.py -n osm.net.xml --seed 42 --fringe-factor 5 -p 7.9102174499 -r osm.truck.rou.xml -o osm.truck.trips.xml -e 3600 --vehicle-class truck --vclass truck --prefix truck --min-distance 600 --trip-attributes departLane=\"best\" --validate
+python %SUMO_HOME%\tools\randomTrips.py -n osm.net.xml --seed 42 --fringe-factor 1 -p 0.846423090083 -r osm.pedestrian.rou.xml -o osm.pedestrian.trips.xml -e 3600 --pedestrians --prefix ped --max-distance 2000

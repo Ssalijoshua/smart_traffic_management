@@ -1,0 +1,8 @@
+<routes>
+    <person id="leaving_early" depart="0" color="green">
+        <!-- Hotel Cantaras -->
+        <walk from="4526354#6" to="37350442" arrivalPos="112"/>
+        <ride to="176908062#1" lines="30"/>
+    </person>
+
+</routes>

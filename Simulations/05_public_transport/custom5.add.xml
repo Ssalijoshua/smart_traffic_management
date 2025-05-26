@@ -1,0 +1,8 @@
+<routes>
+    <vType id="bus" vClass="bus"/>
+    <busStop id="SantaCatalina" lane="37350442_0" startPos="100" endPos="140" lines="30-Aeropuerto"/>
+
+    <flow id="bus_line30" type="bus" begin="0" end="3600" period="600" from="310772654#0" to="176908062#1" departSpeed="max" line="30">
+        <stop busStop="SantaCatalina" duration="60"/>
+    </flow>
+</routes>

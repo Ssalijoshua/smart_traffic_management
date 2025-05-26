@@ -1,0 +1,7 @@
+<add>
+    <!-- Detectors used for actuated control via TraCI -->
+    <inductionLoop id="0" lane="290619181#3_0" pos="-5" freq="1" file="det.out.xml"/>
+
+    <!-- additional simulation outputs -->
+    <timedEvent type="SaveTLSSwitchStates" source="1814203922" dest="tlsstates.xml"/>
+</add>
