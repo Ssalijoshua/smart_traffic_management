@@ -5,7 +5,7 @@ This repo contains the work for a traffic management system designed to classify
 ## Datasets
 The datasets are quite big. For this reason we could not directly push them to this repo. However they can be accessed from the links below
 
-Vehicle Detection dataset -> https://www.kaggle.com/datasets/ssalijoshua/ssalis-traffic-density
+Vehicle Detection dataset -> https://www.kaggle.com/datasets/ssalijoshua/vehicle-detection
 
 Traffic Density dataset -> https://www.kaggle.com/datasets/ssalijoshua/ssalis-traffic-density
 
